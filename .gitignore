@@ -1,0 +1,15 @@
+# Secrets
+kaggle.json
+.kaggle/
+
+# Data
+data/
+*.csv
+
+# Python junk
+__pycache__/
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
