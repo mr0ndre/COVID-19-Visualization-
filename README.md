@@ -1,5 +1,5 @@
 # ** Questions to be answered ** 
-1. Which country has most cases ? 
+1. Which country has most cases in total? Plot of daily cases for this country. 
 2. What is the development of COVID ?
 3. Choropleth map (Globally)
 4. How did death rate differ for each countries ? Top 10 countries with highest death rate ?
