@@ -1,2 +1,18 @@
+# ** Questions to be answered ** 
+1. Which country has most cases ? 
+2. What is the development of COVID ?
+3. Choropleth map (Globally)
+4. How did death rate differ for each countries ? Top 10 countries with highest death rate ?
+5. What countries have successfully reduced the spread of COVID ? (Countries with cases growing rapidly at the start, but slows down later on)
+6. When did each country experience its peak COVID wave?
+
 # COVID-19-Visualization-
 Visualizes COVID-19 cases. 
+
+# Set Up 
+1.Set Up Kaggle API 
+2. Download scripts/download_data.csv
+
+
+# Description 
+SQL - Mainly used for Data Manipulation. Selecting, filtering, grouping. Reshaping data/
