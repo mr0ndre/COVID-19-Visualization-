@@ -10,9 +10,9 @@
 Visualizes COVID-19 cases. 
 
 # Set Up 
-1. Set Up Kaggle API 
-2. Download scripts/download_data.csv
-
+1. Set Up Kaggle API, See documentation at: https://www.kaggle.com/docs/api
+2. Download notebooks/download_data.ipynb and run it 
 
 # Description 
-SQL - Mainly used for Data Manipulation. Selecting, filtering, grouping. Reshaping data/
+SQL - Mainly used for Data Manipulation. Selecting, filtering, grouping. Reshaping data. 
+Python - For data analysis, visualization 
