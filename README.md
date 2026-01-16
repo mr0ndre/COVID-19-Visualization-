@@ -10,7 +10,7 @@
 Visualizes COVID-19 cases. 
 
 # Set Up 
-1.Set Up Kaggle API 
+1. Set Up Kaggle API 
 2. Download scripts/download_data.csv
 
 
