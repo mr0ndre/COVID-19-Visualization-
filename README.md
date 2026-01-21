@@ -1,3 +1,10 @@
+# Welcome 
+-- To be completed 
+# EDIT: 
+- Add Welcome sentences
+- Add description of data
+- Dataset needed to be reformatted in EDA.ipynb. 
+
 # ** Questions to be answered ** 
 1. Which country has most cases in total? Plot of daily cases for this country. 
 2. What is the development of COVID ?
