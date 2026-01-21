@@ -25,4 +25,4 @@ SQL - Mainly used for Data Manipulation. Selecting, filtering, grouping. Reshapi
 Python - For data analysis, visualization 
 
 # 🌐 Live Interactive Dashboard
-👉 https://YOUR_USERNAME.github.io/YOUR_REPO/
+👉 https://mr0ndre.github.io/COVID-19-Visualization-/
