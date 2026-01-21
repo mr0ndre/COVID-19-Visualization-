@@ -16,3 +16,6 @@ Visualizes COVID-19 cases.
 # Description 
 SQL - Mainly used for Data Manipulation. Selecting, filtering, grouping. Reshaping data. 
 Python - For data analysis, visualization 
+
+# 🌐 Live Interactive Dashboard
+👉 https://YOUR_USERNAME.github.io/YOUR_REPO/
