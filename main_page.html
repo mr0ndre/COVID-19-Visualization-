@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Overview</title>
+
+    <style>
+        .body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background-color: #f5f7fa;
+        }
+
+        .container {
+            width: 80%;
+            max-width: 1200px;
+            display: flex;
+            margin: auto;
+            gap: 40px;
+            align-items: center;
+            background: rgb(255, 255, 255);
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .text {
+            flex: 1;
+            margin-bottom: 200px;
+            font-family: Georgia, serif;
+        }
+
+        .text h1 {
+            margin: 0;
+        }
+
+        .image {
+            flex: 1;
+            text-align: center;
+        }
+
+        .image img {
+            max-width: 70%;
+            height: auto;
+            border-radius: 6px;
+            margin-bottom: 100px;
+        }
+        a{
+            text-decoration: none;
+        }
+        .url {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            max-width: 500px;
+        }
+        .url :hover {
+            background-color: #0066cc;
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 102, 204, 0.3);
+        }
+        .url a{
+            display: block;
+            padding: 12px 20px;
+            background-color: #f0f7ff;
+            border-radius: 8px;
+            text-decoration: none;
+            color: #0066cc;
+            font-weight: 500;
+            border: 2px solid #cce0ff;
+            transition: all 0.3s ease;
+            font-size: 15px;
+            text-align: center;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="text">
+        <h1>COVID-19 Data Visualization</h1>
+        <p>
+            This project explores global COVID-19 trends using interactive
+            visualizations created with Plotly. The charts highlight
+            differences in case numbers, deaths, and distributions across
+            countries over time, helping users better understand the
+            progression of the pandemic.
+        </p>
+        <div class="url">
+            <a href="figures/Total_COVID_by_Country.html"> World COVID cases distributions </a>
+            <a href="figures/Total_Death_Rate_By_Country.html"> Death Rates by Country </a>
+            <a href="figures/covid_daily_cases_deaths_USA.html"> Daily New Cases (USA) </a>
+            <a href="figures/Cases_Deaths_Distribution_by_Country_PIECHART.html"> Proportion of World Total Deaths & Cases </a>
+            <a href="figures/Cases_Distribution_World_Map.html"> Cases Distribtion by World Map </a>
+            <a href="figures/Deaths_Distribution_World_Map.html"> Deaths Distribution by World Map</a>
+        </div>
+
+        </div>
+
+    <div class="image">
+        <img src="figures/COVID_19.jpg" alt="Visualization preview">
+    </div>
+</div>
+
+</body>
+</html>
