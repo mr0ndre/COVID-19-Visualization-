@@ -16,7 +16,7 @@ This project presents an interactive visualization of COVID-19 cases and deaths 
 
 📊 Multiple visualization types (maps, distributions, comparisons)
 
-🧠 What This Project Demonstrates
+## 🧠 What This Project Demonstrates
 
 Data cleaning and preprocessing of real-world datasets
 
