@@ -49,7 +49,7 @@ Several numerical variables exhibit large variance and skewed distributions acro
 
 # 📈 Data Source
 COVID-19 Global Dataset from Kaggle
-(josephassaker/covid19-global-dataset)
+[josephassaker/covid19-global-dataset](https://www.kaggle.com/datasets/josephassaker/covid19-global-dataset)
 
 # Set Up 
 1. Set Up Kaggle API, See documentation at: https://www.kaggle.com/docs/api
